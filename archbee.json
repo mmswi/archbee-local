@@ -1,0 +1,15 @@
+{
+  "root": "./",
+  "docsPath": "",
+  "structure": {
+    "docsTree": [
+      {
+        "categoryName": "Shadow Docs",
+        "isCategory": true,
+        "children": [],
+        "isShadowDocs": true
+      }
+    ],
+    "assets": "assets/"
+  }
+}
