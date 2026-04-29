@@ -4,6 +4,18 @@
   "structure": {
     "docsTree": [
       {
+        "path": "thirddd-doc.mdx",
+        "children": []
+      },
+      {
+        "path": "second-doc.mdx",
+        "children": []
+      },
+      {
+        "path": "first-doc-ma-boyy.mdx",
+        "children": []
+      },
+      {
         "categoryName": "Shadow Docs",
         "isCategory": true,
         "children": [],
